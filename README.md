@@ -1,8 +1,8 @@
-# AirRush_Game (Desktop Game created using a custom framework of OpenGL named iGraphics)
+AirRush_Game (a desktop game created using a custom framework of OpenGL named graphics)
 Hi!
-I am Debopriya Deb Roy. Currently a CSE undergrad student studying in Ahsanullah University of Science and Technology. In our software development lab of 1st year 2nd semester, we had to make a game using iGraphics.
+I'm Maisha Musarrat Nabila. Currently, a CSE undergrad student studying at Ahsanullah University of Science and Technology. In our software development lab of 1st-year 2nd semester, we had to make a game using iGraphics.
 
-AirRush is a C written, iGraphics powered desktop game. The game offers a 2D side-scrolling experience. The player controls a plane and has to avoid obstacles and collect coins. The game has a total of 2 levels. The player can choose which level he/she wants to play. The game has a high score system. The player can save their high score and view it later. The game also has a pause and resume feature.
+AirRush is a C-written, iGraphics-powered desktop game. The game offers a 2D side-scrolling experience. The player controls a plane and has to avoid obstacles and collect coins. The game has a total of 2 levels. The player can choose which level he/she wants to play. The game has a high score system. The player can save their high score and view it later. The game also has a pause and resume feature.
 
 ## Hardware Requirements: 
     ▪ Core i3 2.8Ghz processor and above.
